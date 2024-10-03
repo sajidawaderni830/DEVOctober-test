@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Text>Open App.tsx to stawoking osur app!</Text>
+      <Text>Open App.tsx to stawokgur app!</Text>
       <StatusBar style="auto" />
     </View>
   );
