@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Text>Open App.tsx to stawokgur app!</Text>
+      <Text>Hello world</Text>
+      <Text>DEVOctober</Text>
       <StatusBar style="auto" />
     </View>
   );
